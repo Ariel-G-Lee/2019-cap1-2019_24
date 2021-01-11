@@ -52,7 +52,7 @@
 <h4> 이가빈 </h4>
 <p>- 학번 : 20153203 <br>
   - Email : kv829ly@naver.com <br>
-  - Face recognition 기능 구현 <br>
+  - Face recognition 얼굴 인식 및 분류 구현 <br>
   - 태그 데이터 통계 및 네트워크 분석 (+그래프 시각화) <br>
   - 데이터 베이스 수정 및 입출력 </p>
   <br>
@@ -64,7 +64,7 @@
   - Email : killkkk666@kookmin.ac.kr <br>
   - 서버 및 데이터베이스 설계, 구축<br>
   - 딥러닝 기반 이미지 인식으로 자동 태그 입력 기능 구현 <br>
-  - Face recognition 기능 구현 </p>
+  - Face recognition 얼굴 인식 및 분류 구현 </p>
   <br>
 
 ---------------------------------------
