@@ -53,7 +53,8 @@
 <p>- 학번 : 20153203 <br>
   - Email : kv829ly@naver.com <br>
   - Face recognition 기능 구현 <br>
-  - 태그 데이터 통계 및 네트워크 분석 </p>
+  - 태그 데이터 통계 및 네트워크 분석 - 그래프 시각화 <br>
+  - 데이터 베이스 입출력 담당 </p>
   <br>
 
 <img src="./image/장지은.jpg" width="200">
